@@ -19,8 +19,9 @@ function Header() {
 
 
                 <Link to={"/"}>Home</Link>
+                <Link to={"/notice/list/"}>공지사항</Link>
                 <Link to={"/member/login/"}>로그인</Link>
-
+                <Link to={"/member/join/"}>회원가입</Link>
 
             </nav>
         </>
